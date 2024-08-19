@@ -6,9 +6,9 @@ My links:
 * [My blog](https://github.com/ctapobep/blog/issues) (you can subscribe to that repo)  
 * [StackExchange account](https://stackexchange.com/users/476019/stanislav-bashkyrtsev?tab=accounts)
 
-# Software courses
+# Сourses
 
-Sometimes articles turn into a series, and then turn into courses. I can read them as part of the B2B consulting or you can go through them on your own:
+Sometimes articles turn into series, and then turn into courses. I can read them as part of the B2B consulting or you can go through them on your own:
 
 * [Java Professionals Course](https://github.com/qala-io/java-course) \- can teach it, fully documented  
 * [SQL Course](https://github.com/qala-io/sql-course) \- can teach it, 100% documented  
