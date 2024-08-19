@@ -2,8 +2,8 @@ I’ve been doing software development since 2008, and throughout the years I’
 
 My links:
 
-* [Consulting](https://elsci.io/business-model.html) in software engineering and project management  
-* [My blog](https://github.com/ctapobep/blog/issues) (you can subscribe to that repo)  
+* **[Consulting](https://elsci.io/business-model.html)** in software engineering and project management  
+* **[Blog](https://github.com/ctapobep/blog/issues)**, you can subscribe to that repo
 * [StackExchange account](https://stackexchange.com/users/476019/stanislav-bashkyrtsev?tab=accounts)
 
 # Сourses
