@@ -1,4 +1,4 @@
-I’ve been doing software development since 2008, and throughout the years I’ve taken roles of Software Engineer/Architect, Project Manager, Business Analyst, AQA. Today I work at [Elsci](https://elsci.io) where we specialize in creating scientific software. We also do B2B [consulting in software development and management](https://elsci.io/business-model.html).
+I’ve been doing software development since 2008, and throughout the years I’ve taken roles of Software Engineer/Architect, Project Manager, CI/CD engineer, Business Analyst, AQA. Today I work at [Elsci](https://elsci.io) where we specialize in creating scientific software. We also do B2B [consulting in software development and management](https://elsci.io/business-model.html).
 
 My links:
 
