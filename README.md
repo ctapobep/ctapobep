@@ -21,4 +21,4 @@ Sometimes articles turn into series, and then turn into courses. I can read them
 # Open source projects
 
 * [Datagen](https://github.com/qala-io/datagen) \- a library for randomized testing in Java  
-* Some of the projects listed under [elsci-io](https://github.com/elsci-io)
+* [isotope-distribution](https://github.com/elsci-io/isotope-distribution), [multinomial-selection](https://github.com/elsci-io/multinomial-selection) for calculating molecular isotope pattern.
